@@ -1,2 +1,2 @@
 Hello!
-My name is Adeola, I am an aspiring Data Analyst with a zeal to learn in the exciting world of Data Analysis.
+My name is Adeola, I am an aspiring Data Analyst, an ambitious learner with the zeal to improve and excel in the Data Analytics World!.
